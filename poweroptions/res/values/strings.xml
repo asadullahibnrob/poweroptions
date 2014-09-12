@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, startingPoint!</string>
+    <string name="app_name">Power Options</string>
+    <string name="cancel"> hello</string>
+        <string name="dialog_fire_missiles"> hello</string>
+        <string name="fire"> hello</string>
+    
+    
+</resources>
